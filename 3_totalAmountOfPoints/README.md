@@ -21,4 +21,4 @@ our team always plays 10 matches in the championship
 1. 0 <= x <= 4
 1. 0 <= y <= 4
 
-[Link](https://www.codewars.com/kata/5bb904724c47249b10000131/train/go) for this codewar challenge if you want to give it a try yourself!
+[Link](https://www.codewars.com/kata/5bb904724c47249b10000131/train/go) for this codewar challenge if you want to give it a go yourself!
